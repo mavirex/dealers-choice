@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+    color: red;
+}
+#root {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    font-size: 300%;
+}
+img {
+    border-radius: 50%;
+    max-width: 50%;
+    max-height: 50%;
+}
+#slogan {
+    font-style: italic;
+}
+.meal {
+    font-weight: bold;
+    font-size: 200%;
+    color: red;
+    font-style: normal;
+}
